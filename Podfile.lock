@@ -1,0 +1,21 @@
+PODS:
+  - myfirstpod (0.1.0)
+
+DEPENDENCIES:
+  - myfirstpod (from `https://github.com/jayshah123/myfirstpod.git`)
+
+EXTERNAL SOURCES:
+  myfirstpod:
+    :git: https://github.com/jayshah123/myfirstpod.git
+
+CHECKOUT OPTIONS:
+  myfirstpod:
+    :commit: b75e37496d870afb07e8970a3867ab5ccfa56769
+    :git: https://github.com/jayshah123/myfirstpod.git
+
+SPEC CHECKSUMS:
+  myfirstpod: 94e1c5cf6104263dea6f4368e0693a5df05640c9
+
+PODFILE CHECKSUM: 43cfdca37905abb6da66be48b5823d3671655d33
+
+COCOAPODS: 1.11.2
